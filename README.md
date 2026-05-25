@@ -1,10 +1,9 @@
 <div align="center">
 
-# ✦ aan.my.id
+# ✦ fadel.my.id
 
 **Website portfolio & personal Fadel Muhammad**
 
-[![Live](https://img.shields.io/badge/🌐_Live_Website-aan.my.id-fbbf24?style=for-the-badge&labelColor=0d1117)](https://aan.my.id)
 [![GitHub](https://img.shields.io/badge/GitHub-fm5355138-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fm5355138-pixel)
 [![Instagram](https://img.shields.io/badge/Instagram-fzxdellw-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fzxdellw/)
 
@@ -169,7 +168,7 @@ Punya pertanyaan, feedback, atau mau kolaborasi?
 
 <div align="center">
 
-**Dibuat dengan ☕ dan 🎧 oleh [Annasirat](https://aan.my.id)**
+**Dibuat dengan ☕ dan 🎧 oleh [Fadel Muhammad]**
 
 *Bekasi utara, Jakarta · 2025 – 2026*
 
